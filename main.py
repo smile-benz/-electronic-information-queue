@@ -1,4 +1,4 @@
-#Код
+#Реализация функионала
 class Queue:
     def __init__(self):
         self.items = []
